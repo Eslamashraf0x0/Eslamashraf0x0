@@ -9,8 +9,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eslamashraf0x0&label=Profile%20views&color=0e75b6&style=flat" alt="eslamashraf0x0" /> </p>
 
-- 🌱 I’m currently learning **Angular**
-
 - 📫 How to reach me **eslamashrafsaber@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
